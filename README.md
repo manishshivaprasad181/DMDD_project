@@ -1,4 +1,4 @@
-•	# DMDD_project
+DMDD_project
 
 
 •	Step 1-execute the script 01_admincreation.sql as database admin
